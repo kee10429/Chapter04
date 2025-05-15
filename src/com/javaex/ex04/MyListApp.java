@@ -45,7 +45,7 @@ public class MyListApp {
 		 
 		 for(int i=0;i<cList.size();i++) {
 			 System.out.println(cList.get(i).toString());
-		 }
+		 } 
 		 
 		 System.out.println("-----------------------------------");
 		 
